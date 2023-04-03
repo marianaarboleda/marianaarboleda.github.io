@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: ¡Hola!
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: "assets/images/lofi.png" 
+comments: false
 ---
+Soy Mariana Arboleda, estudiante de doctorado en Educación. Actualmente estoy investigando acerca de la inclusión de la ciencia de datos en la educaciónn media y los primeros años de pregrado.
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
-
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
 
