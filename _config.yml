@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-81760CJSJH
 
 # Authors
 authors:
@@ -29,14 +29,12 @@ authors:
     display_name: Mariana
     avatar: 'assets/images/sal.png'
     email: marianaarboleda@uninorte.edu.co
-    web: 
-    twitter: https://twitter.com/marbolf
+    twitter: https://twitter.com/marbolf/
     description: "PhD Student. Teacher"
   
 # Social
 social:
   instagram: https://www.instagram.com/mariaf494/
-  #facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
   twitter: https://twitter.com/marbolf
 
 # Plugins
