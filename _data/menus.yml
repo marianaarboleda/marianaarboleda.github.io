@@ -26,6 +26,7 @@ footermenu:
 
 - title: Hoja de vida
   url: "https://marianaarboleda.github.io/hoja_de_vida/"
+  external: true
 
 - title: Grupo de investigación
   url: https://grupoinformaticaeducativa.uninorte.edu.co/web/  
