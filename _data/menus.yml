@@ -9,6 +9,7 @@ topmenu:
 
 - title: Hoja de vida
   url: "https://marianaarboleda.github.io/hoja_de_vida/"
+  external: true
 
 - title: Proyectos  
   url: projects/
