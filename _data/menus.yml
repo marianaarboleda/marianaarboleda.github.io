@@ -7,8 +7,8 @@ topmenu:
 - title: Acerca de mi
   url: "about/"
 
-- title: Contacto
-  url: "contact/"
+- title: Hoja de vida
+  url: "https://marianaarboleda.github.io/hoja_de_vida/"
 
 - title: Proyectos  
   url: projects/
@@ -23,8 +23,8 @@ footermenu:
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contacto
-  url: "contact/"
+- title: Hoja de vida
+  url: "https://marianaarboleda.github.io/hoja_de_vida/"
 
 - title: Grupo de investigación
   url: https://grupoinformaticaeducativa.uninorte.edu.co/web/  
