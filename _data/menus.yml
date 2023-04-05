@@ -8,7 +8,7 @@ topmenu:
   url: "about/"
 
 - title: Hoja de vida
-  url: "https://marianaarboleda.github.io/hoja_de_vida/"
+  url: https://marianaarboleda.github.io/hoja_de_vida/
   external: true
 
 - title: Proyectos  
@@ -25,7 +25,7 @@ footermenu:
   url: "privacy-policy/"
 
 - title: Hoja de vida
-  url: "https://marianaarboleda.github.io/hoja_de_vida/"
+  url: https://marianaarboleda.github.io/hoja_de_vida/
   external: true
 
 - title: Grupo de investigación
