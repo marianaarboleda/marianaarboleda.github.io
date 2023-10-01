@@ -8,10 +8,10 @@ topmenu:
   url: "about/"
 
 - title: Hoja de vida
-  url: https://marianaarboleda.github.io/hoja_de_vida/
+  url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
-- title: Proyectos  
+- title: Proyectos
   url: projects/
   class: "ml-2 btn btn-dark text-white px-3"
 
@@ -25,9 +25,9 @@ footermenu:
   url: "privacy-policy/"
 
 - title: Hoja de vida
-  url: https://marianaarboleda.github.io/hoja_de_vida/
+  url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
 - title: Grupo de investigación
-  url: https://grupoinformaticaeducativa.uninorte.edu.co/web/  
+  url: https://grupoinformaticaeducativa.uninorte.edu.co/web/
   external: true
