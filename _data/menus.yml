@@ -7,7 +7,8 @@ topmenu:
 - title: Acerca de mi
   url: "about/"
 
-- title: Hoja de vida
+
+- title: Academic CV
   url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
@@ -21,10 +22,11 @@ footermenu:
 - title: Inicio
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+# - title: Privacy Policy
+#   url: "privacy-policy/"
 
-- title: Hoja de vida
+
+- title: Academic CV
   url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
