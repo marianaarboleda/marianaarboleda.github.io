@@ -7,8 +7,8 @@ topmenu:
 - title: Acerca de mi
   url: "about/"
 
-- title: Hoja de vida
-  url: https://marianaarboleda.github.io/hoja_de_vida/
+- title: Academic CV
+  url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
 - title: Proyectos  
@@ -21,11 +21,11 @@ footermenu:
 - title: Inicio
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+# - title: Privacy Policy
+#   url: "privacy-policy/"
 
-- title: Hoja de vida
-  url: https://marianaarboleda.github.io/hoja_de_vida/
+- title: Academic CV
+  url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
 - title: Grupo de investigación
