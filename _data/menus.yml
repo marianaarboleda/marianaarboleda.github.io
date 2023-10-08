@@ -7,11 +7,12 @@ topmenu:
 - title: Acerca de mi
   url: "about/"
 
+
 - title: Academic CV
   url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
-- title: Proyectos  
+- title: Proyectos
   url: projects/
   class: "ml-2 btn btn-dark text-white px-3"
 
@@ -24,10 +25,11 @@ footermenu:
 # - title: Privacy Policy
 #   url: "privacy-policy/"
 
+
 - title: Academic CV
   url: https://marianaarboleda.github.io/academic_cv/
   external: true
 
 - title: Grupo de investigación
-  url: https://grupoinformaticaeducativa.uninorte.edu.co/web/  
+  url: https://grupoinformaticaeducativa.uninorte.edu.co/web/
   external: true
